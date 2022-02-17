@@ -7,3 +7,4 @@ We have a few projects brewing up over here.
 -I'm looking to collaborate on IPFS Javascript projects
 -You can reach me amirran@galaxyx.io or my team's website at http://www.galaxyx.io
 
+Working with @galaxyxone & @galaxyxthree 👋
